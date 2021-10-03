@@ -6,7 +6,7 @@
 </head>
 
 <body>
-    <center>
+   <center>
         <form action="<?= base_url('matakuliah/cetak'); ?>" method="post">
             <table>
                 <tr>
