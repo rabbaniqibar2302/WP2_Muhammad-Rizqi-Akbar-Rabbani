@@ -19,13 +19,16 @@
             <nav>
                 <ul>
                     <li>
-                        <a href="<?php?>"></a>
+                        <a href="<?php echo base_url() . 'index.php/web' ?>">Home</a>
                     </li>
                     <li>
-                        
+                        <a href="<?php echo base_url() . 'index.php/web/about' ?>">About</a>
                     </li>
                 </ul>
             </nav>
+            <div class="clear">
+
+            </div>
         </header>
     </div>
 </body>
