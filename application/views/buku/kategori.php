@@ -55,7 +55,7 @@
                 <span aria-hidden="true">&times;</span>
             </button>
         </div>
-        <form action="" <?= base_url('buku/kategori'); ?>" method="post">
+        <form action=" <?= base_url('buku/kategori'); ?>" method="post">
             <div class="modal-body">
                 <div class="form-group">
                     <select name="kategori" class="form-control form-control-user">
